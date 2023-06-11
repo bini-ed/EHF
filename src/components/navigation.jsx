@@ -1,4 +1,6 @@
 import React from "react";
+import { Image } from "./image";
+import Gallery from "../data/data.json";
 
 export const Navigation = (props) => {
   return (
@@ -12,14 +14,31 @@ export const Navigation = (props) => {
             data-target="#bs-example-navbar-collapse-1"
           >
             {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+          <div
+            style={{
+              display: "flex",
+              width: "100%",
+              alignItems: "center",
+              justifyContent: "space-between",
+            }}
+          >
+            <div
+              style={{
+                maxHeight: 60,
+                maxWidth: 30,
+                marginRight: 15,
+              }}
+            >
+              <Image smallImage={Gallery.Gallery[1].largeImage} />
+            </div>
+            <a className="navbar-brand page-scroll" href="#page-top">
+              Ethiopian Healthcare Federation
+            </a>{" "}
+          </div>
         </div>
 
         <div
@@ -27,11 +46,6 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
-              <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li>
             <li>
               <a href="#about" className="page-scroll">
                 About
@@ -42,21 +56,7 @@ export const Navigation = (props) => {
                 Services
               </a>
             </li>
-            <li>
-              <a href="#portfolio" className="page-scroll">
-                Gallery
-              </a>
-            </li>
-            <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li>
+
             <li>
               <a href="#contact" className="page-scroll">
                 Contact

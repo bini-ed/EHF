@@ -4,25 +4,18 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "paragraph": "Ethiopia Healthcare Federation (EHF) is the largest and strongest umbrella organisation of all non-state/private actors in Ethiopia supporting the Ethiopian Federal Ministry of Health (FMOH) in its interventions. Established in 2019 following the multiple rounds of Public-Private Dialogue (PPD) forum organized by FMOH and the World Bank, EHF has 16 members comprising over 25,000 associates actively supporting healthcare in all the 10 regions and two administrative cities of Ethiopia. EHF is a member of regional `East Africa Healthcare Federation (EAHF) and continental `AFRIC Healthcare Federation (AHF) which EHF is a memeber of the board of directors` It is also presently supporting the FMOH in its fight against  ."
   },
   "Gallery": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Logo",
+      "largeImage": "img/Logo.png",
+      "smallImage": "img/Logo.png"
     },
     {
       "title": "Project Title",
@@ -152,12 +145,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Bole Road, DH Geda Tower, Suite 403 Addis Ababa, Ethiopia",
+    "phone": "+251-911692347",
+    "email": "ehf@ethiohealthfed.org"
   },
   "Features": [
     {
