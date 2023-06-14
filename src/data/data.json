@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Ethiopia Healthcare Federation (EHF) is the largest and strongest umbrella organisation of all non-state/private actors in Ethiopia supporting the Ethiopian Federal Ministry of Health (FMOH) in its interventions. Established in 2019 following the multiple rounds of Public-Private Dialogue (PPD) forum organized by FMOH and the World Bank, EHF has 16 members comprising over 25,000 associates actively supporting healthcare in all the 10 regions and two administrative cities of Ethiopia. EHF is a member of regional `East Africa Healthcare Federation (EAHF) and continental `AFRIC Healthcare Federation (AHF) which EHF is a memeber of the board of directors` It is also presently supporting the FMOH in its fight against  ."
+    "paragraph": "Ethiopia Healthcare Federation (EHF) is the largest and strongest umbrella organization of all non-state/private actors in Ethiopia supporting the Ethiopian Federal Ministry of Health (FMOH) in its interventions. Established in 2019 following the multiple rounds of Public-Private Dialogue (PPD) forum organized by FMOH and the World Bank, EHF has 16 members comprising over 25,000 associates actively supporting healthcare in all the 10 regions and two administrative cities of Ethiopia. EHF is a member of regional `East Africa Healthcare Federation (EAHF) and continental `AFRIC Healthcare Federation (AHF) which EHF is a memeber of the board of directors` It is also presently supporting the FMOH in its fight against  ."
   },
   "Gallery": [
     {
@@ -61,33 +61,23 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Digital Health Activity",
+      "text": "Orbit Health is part of Digital Health Activity (DHA), a five year USAID project through JSI. The project is to support the Ethiopian MOH in its digitization programs. Currently, Orbit Health is working in six government facilities."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "WHO",
+      "text": "Consulted the Ethiopian Public Health Institute in COVID-19 laboratory digitization and information management"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "JICA",
+      "text": "Winner NINJA business plan. Partnership Program to support Orbit Digital Health, which is a patient engagement tool"
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "IFC Tech Emerge",
+      "text": "Recognized as a health-tech leader in Africa and selected from over 450 digital health companies of which over 50 were EMR providers, to be part of a group of 5 international digital health innovators that participate in final partnership talks with East African Health Care providers"
     }
   ],
   "Testimonials": [
@@ -124,23 +114,38 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/AAPH.jfif",
+      "name": "AAPH",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "img/abh.png",
+      "name": "ABH",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "img": "img/ema.png",
+      "name": "EMA",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "img/EPHHCA.png",
+      "name": "EPHHCA",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/icl.jpg",
+      "name": "ICL",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/cs.png",
+      "name": "Orbit Health",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/EPHA.png",
+      "name": "EPHA",
       "job": "Project Manager"
     }
   ],
